@@ -25,6 +25,10 @@ sudo apt-get update
 sudo apt-get install sublime-text
 echo "${GR}Sublime-text -> OK${NC}"
 
+sudo apt-get update
+
 # Oh-My-Zsh
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
-echo "${GR}Oh-my-zsh -> OK$
+echo "${GR}Oh-my-zsh -> OK$"
+
+
